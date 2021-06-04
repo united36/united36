@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naina25" alt="naina25" /> </p>
 
-I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Leader and 📷 Youtuber**.
+I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Leader and 📷 YouTuber**.
 - 📫 Reach me out to me on twitter and Instagram : 0xParth
 - 👦 I write some blogs on www.parthshu.com.
 - 💥 You can reach my community on www.instagram.com/bug_xs
