@@ -1,5 +1,7 @@
 # Hello there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naina25" alt="naina25" /> </p>
+
 I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Leader and 📷 Youtuber** and also **I write some blogs on www.parthshu.com**.
 - 📫 How to reach me out to me on twitter and Instagram : 0xParth
 
