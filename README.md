@@ -1,5 +1,3 @@
-<img alt="img" src="https://media.giphy.com/media/TLJIjG3Aj1FoKeXtyo/giphy.gif" width="20%" height="auto" />
-
 # Hello there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naina25" alt="naina25" /> </p>
