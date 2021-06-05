@@ -1,5 +1,5 @@
 # Hello there 👋
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%"/>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theunited36" alt="theunited36" /> </p>
 
 I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Leader and 📷 YouTuber**.
