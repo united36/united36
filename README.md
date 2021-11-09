@@ -8,7 +8,7 @@ I am a **💻 Security Analyst, 🏹 Bug Bounty Hunter, 🐱‍👤 Community Le
 
 
 <p align="center">
-<a href= "https://www.instagram.com/0xParth/"><img src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-free-download-PNG.png"/></a>
+<a href= "https://www.instagram.com/0xParth/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
 <a href= "https://www.linkedin.com/in/parthshu18/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/0xParth"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://www.partshu.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
